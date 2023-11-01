@@ -1,0 +1,12 @@
+.git
+.gitignore
+.devcontainer
+
+Docker-Images
+
+Tests
+
+bin
+obj
+
+justfile
